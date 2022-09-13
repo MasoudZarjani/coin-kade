@@ -1,0 +1,45 @@
+@font-face {
+    font-family: iranYekan;
+    src: url('./../fonts/IRANYekanWebMedium.ttf');
+}
+
+* {
+    letter-spacing: 0 !important;
+}
+
+.v-application {
+    background: linear-gradient(45deg, rgb(218, 232, 254), #F0F6FE) !important;
+}
+
+a {
+    text-decoration: none;
+    color: initial !important;
+}
+
+.w-fit-content {
+    width: fit-content;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.list-style-none {
+    list-style: none;
+}

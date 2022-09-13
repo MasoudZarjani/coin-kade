@@ -1,0 +1,63 @@
+{
+    "general": {},
+    "navBar": {},
+    "footer": {},
+    "company": {
+        "websiteUrl": "https://coinkade.com/",
+        "social": {
+            "facebook": {
+                "url": "https://www.facebook.com/company"
+            },
+            "youtube": {
+                "url": "https://www.youtube.com"
+            },
+            "instagram": {
+                "url": "https://www.instagram.com"
+            },
+            "twitter": {
+                "url": "https://twitter.com"
+            },
+            "telegram": {
+                "url": "https://www.telegram.com"
+            },
+            "email": {
+                "url": "https://www.gmail.com"
+            }
+        },
+        "phone": {
+            "line1": "051-91311300",
+            "line2": "021-91311300"
+        },
+        "email": "support@coinkade.com",
+        "address": {
+            "googleMapLink": "https://goo.gl/maps/qyGxRtgaR3yhqejt7",
+            "text": "مشهد مقدس، حاشیه وکیل آباد 77 ، پلاک 71"
+        },
+        "logo": "companyLogo.svg",
+        "slogan": "کوین کده درگاه تبادل ارزهای دیجیتال",
+        "workTimes": "هفت روز هفته حتی در ایام تعطیـل از طریق تلفن پشتیبانی و تیکت پاسخگوی شما هستیم",
+        "copyWriteWarning": ".تمامی حقوق و مزایای سایت برای شرکت دانش بنیان کوین کده محفوظ است",
+        "appMarket": {
+            "myket": {
+                "logo": "myketLogo.svg",
+                "name": "Myket",
+                "link": "www.myket.com"
+            },
+            "cafeBazzar": {
+                "logo": "caffeBazarLogo.svg",
+                "name": "CafeBazzar",
+                "link": "www.caffebazar.com"
+            },
+            "googlePlay": {
+                "logo": "googlePlayLogo.svg",
+                "name": "Google Play",
+                "link": "www.googleplay.com"
+            },
+            "appStore": {
+                "logo": "appleStoreLogo.svg",
+                "name": "App Store",
+                "link": "www.applestore.com"
+            }
+        }
+    }
+}
