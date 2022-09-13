@@ -52,7 +52,7 @@
         text
         small
         color="white"
-        to="/login"
+        to="/"
         >
         ورود
         </v-btn>
@@ -60,7 +60,7 @@
         text
         small
         color="white"
-        to="/register"
+        to="/"
         >
         ثبت نام
         </v-btn>

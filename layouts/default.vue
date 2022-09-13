@@ -130,10 +130,10 @@ export default {
       ],
       bottomNavItems:[
         { value: 'home', text: 'خانه', icon: 'mdi-home', to: '/' },
-        { value: 'wallet', text: 'کیف پول', icon: 'mdi-wallet', to: '/wallet' },
-        { value: 'trade', text: 'خرید و فروش', icon: 'mdi-swap-vertical-bold', to: '/trade' },
-        { value: 'signal', text: 'قیمت لحظه ای', icon: 'mdi-signal-cellular-3', to: '/signal' },
-        { value: 'profile', text: 'پروفایل', icon: 'mdi-account', to: '/profile' }
+        { value: 'wallet', text: 'کیف پول', icon: 'mdi-wallet', to: '/' },
+        { value: 'trade', text: 'خرید و فروش', icon: 'mdi-swap-vertical-bold', to: '/' },
+        { value: 'signal', text: 'قیمت لحظه ای', icon: 'mdi-signal-cellular-3', to: '/' },
+        { value: 'profile', text: 'پروفایل', icon: 'mdi-account', to: '/' }
       ],
       currentNavigationValue:'home'
     }
